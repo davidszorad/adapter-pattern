@@ -1,0 +1,8 @@
+C:\Dev\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.deps.json
+C:\Dev\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.runtimeconfig.json
+C:\Dev\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.runtimeconfig.dev.json
+C:\Dev\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.dll
+C:\Dev\AdapterPattern\AdapterPattern\bin\Debug\netcoreapp1.1\AdapterPattern.pdb
+C:\Dev\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp1.1\AdapterPattern.AssemblyInfo.cs
+C:\Dev\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp1.1\AdapterPattern.dll
+C:\Dev\AdapterPattern\AdapterPattern\obj\Debug\netcoreapp1.1\AdapterPattern.pdb
